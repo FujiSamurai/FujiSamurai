@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak Kunter Kurt</h1>
 <h3 align="center">Game Developer and Mechatronics Engineer.</h3>
 
-- 🔭 I’m currently working on **Plumet game for mobile with Unity**
-
 - 🌱 I’m currently learning **Blender, Unreal Engine**
 
 - 👯 I’m looking to collaborate on **Box Head 2 game for mobile with Unity**
